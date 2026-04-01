@@ -99,7 +99,7 @@ ipython_config.py
 #   This is especially recommended for binary packages to ensure reproducibility, and is more
 #   commonly ignored for libraries.
 #uv.lock
-
+uv/
 # poetry
 #   Similar to Pipfile.lock, it is generally recommended to include poetry.lock in version control.
 #   This is especially recommended for binary packages to ensure reproducibility, and is more
@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+
+nyc_taxi_pyflink_stream/Nov2025_yellow_streams/downloaded/
+
+nyc_taxi_pyflink_stream/Nov2025_yellow_streams/data_code/__pycache__/
+
+nyc_taxi_pyflink_stream/Nov2025_yellow_streams/kafka/__pycache__/
